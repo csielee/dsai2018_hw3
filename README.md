@@ -8,4 +8,4 @@
 
 ## 作業報告
 
-[model.ipynb by nbviewer](http://nbviewer.jupyter.org/github/csielee/dsai2018_hw3/blob/master/model.ipynb)
+[model.ipynb by nbviewer](https://nbviewer.jupyter.org/github/csielee/dsai2018_hw3/blob/master/model.ipynb?flush_cache=true)
